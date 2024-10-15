@@ -2,4 +2,4 @@
 <br>
 this my first repo
 <br>
-Aouthor name gaurav sardar
+Aouthor name Gaurav Sardar
